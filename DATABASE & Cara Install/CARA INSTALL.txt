@@ -1,0 +1,3 @@
+1. extract ini file di htdocs
+2. buat database baru di localhost/phpmyadmin dengan nama b_dinsos
+3. Import database di dalam folder DATABASE b_dinsos.sql
