@@ -5,3 +5,6 @@ CARA PAKAI
 1. buat database baru di localhost/phpmyadmin dengan nama b_dinsos
 2. Import database di dalam folder DATABASE b_dinsos.sql
 3. Jalankan localhost
+
+EDIT TEMPLATE WORD
+SURAT.rtf
