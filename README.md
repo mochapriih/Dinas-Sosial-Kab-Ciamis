@@ -4,3 +4,4 @@ Website bantuan dinas sosial rutilahu (rumah tidak layak huni) dan karang taruna
 CARA PAKAI
 1. buat database baru di localhost/phpmyadmin dengan nama b_dinsos
 2. Import database di dalam folder DATABASE b_dinsos.sql
+3. Jalankan localhost
